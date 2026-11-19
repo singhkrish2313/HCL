@@ -1,0 +1,37 @@
+import pandas as pd
+
+# Read CSV file
+df = pd.read_csv("student.csv")
+
+# Display all student data
+print("Student Data:")
+print(df)
+
+# Display first 5 rows
+print("\nFirst 5 Students:")
+print(df.head())
+
+# Display last 5 rows
+print("\nLast 5 Students:")
+print(df.tail())
+
+# Display basic information
+print("\nData Information:")
+print(df.info())
+
+# Calculate average marks
+print("\nAverage Marks:", df["Marks"].mean())
+
+# Find highest marks
+print("Highest Marks:", df["Marks"].max())
+
+# Find lowest marks
+print("Lowest Marks:", df["Marks"].min())
+
+# Sort students according to marks
+print("\nStudents Sorted by Marks:")
+print(df.sort_values(by="Marks", ascending=False))
+
+# Students who scored more than 80
+print("\nStudents Scoring Above 80:")
+print(df[df["Marks"] > 80])
