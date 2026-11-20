@@ -1,0 +1,673 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 13 0 R 18 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F1-0 6 0 R
+/F1-1 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/MediaBox [ 0.0 0.0 595.2756 841.8898 ]
+/Annots [ 10 0 R 11 0 R ]
+/Contents 12 0 R
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (mailto\072krish26\056b15410240\100abes\056ac\056in)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 208 463.8898 334.702 476.8898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057singhkrish2313\057HCL)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 208 432.8898 362.566 445.8898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Length 4051
+>>
+stream
+q
+q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+q
+0 531.8898 595.2756 310 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 54 708.6898 cm
+Q
+q
+1 0 0 1 54 652.6898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 35 Tm
+/F2 21 Tf
+28 TL
+12.0393 0 Td
+(SOFTWARE REQUIREMENTS SPECIFICATION) Tj
+T*
+203.0175 0 Td
+(\050SRS\051) Tj
+T*
+-215.0568 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54 610.6898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 7 Tm
+/F2 21 Tf
+28 TL
+35.3283 0 Td
+(Student Academic Performance Analytics) Tj
+T*
+-35.3283 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54 578.6898 cm
+Q
+q
+1 0 0 1 54 557.6898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4.5 Tm
+/F1 10.5 Tf
+15 TL
+(Project Documentation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54 493.0898 cm
+Q
+q
+1 0 0 1 92.4378 353.0898 cm
+q
+0.917647 0.941176 0.964706 rg
+n
+0 140 108 -140 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 122 Tm
+(Project) Tj
+T*
+ET
+BT
+1 0 0 1 116 122 Tm
+(Student Academic Performance Analytics) Tj
+T*
+ET
+BT
+1 0 0 1 8 94 Tm
+(Language) Tj
+T*
+ET
+BT
+1 0 0 1 116 94 Tm
+(Python) Tj
+T*
+ET
+BT
+1 0 0 1 8 66 Tm
+(Libraries) Tj
+T*
+ET
+BT
+1 0 0 1 116 66 Tm
+(NumPy\054 Pandas\054 Matplotlib) Tj
+T*
+ET
+BT
+1 0 0 1 8 38 Tm
+(Development Tool) Tj
+T*
+ET
+BT
+1 0 0 1 116 38 Tm
+(Visual Studio Code) Tj
+T*
+ET
+BT
+1 0 0 1 8 10 Tm
+(Data Source) Tj
+T*
+ET
+BT
+1 0 0 1 116 10 Tm
+(CSV file) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 140 m
+410.4 140 l
+S
+n
+0 0 m
+410.4 0 l
+S
+n
+0 0 m
+0 140 l
+S
+n
+410.4 0 m
+410.4 140 l
+S
+n
+0 112 m
+410.4 112 l
+S
+n
+0 84 m
+410.4 84 l
+S
+n
+0 56 m
+410.4 56 l
+S
+n
+0 28 m
+410.4 28 l
+S
+n
+108 0 m
+108 140 l
+S
+Q
+Q
+Q
+Q
+Q
+
+Q
+q
+1 0.0 0.0 1 0.0 -110 cm
+0.0 0.0 595.2756 841.8898 re
+W
+n
+q
+0 0 595.2756 531.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 54 708.6898 cm
+Q
+q
+1 0 0 1 54 652.6898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 35 Tm
+/F2-0 21 Tf
+28 TL
+12.0393 0 Td
+(SOFTWARE REQUIREMENTS SPECIFICATION) Tj
+T*
+203.0175 0 Td
+(\050SRS\051) Tj
+T*
+-215.0568 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54 610.6898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 7 Tm
+/F2-0 21 Tf
+28 TL
+35.3283 0 Td
+(Student Academic Performance Analytics) Tj
+T*
+-35.3283 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54 578.6898 cm
+Q
+q
+1 0 0 1 54 557.6898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4.5 Tm
+/F1-0 10.5 Tf
+15 TL
+(Project Documentation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54 493.0898 cm
+Q
+q
+1 0 0 1 92.4378 353.0898 cm
+q
+0.917647 0.941176 0.964706 rg
+n
+0 140 108 -140 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 122 Tm
+(Project) Tj
+T*
+ET
+BT
+1 0 0 1 116 122 Tm
+(Student Academic Performance Analytics) Tj
+T*
+ET
+BT
+1 0 0 1 8 94 Tm
+(Language) Tj
+T*
+ET
+BT
+1 0 0 1 116 94 Tm
+(Python) Tj
+T*
+ET
+BT
+1 0 0 1 8 66 Tm
+(Libraries) Tj
+T*
+ET
+BT
+1 0 0 1 116 66 Tm
+(NumPy\054 Pandas\054 Matplotlib) Tj
+T*
+ET
+BT
+1 0 0 1 8 38 Tm
+(Development Tool) Tj
+T*
+ET
+BT
+1 0 0 1 116 38 Tm
+(Visual Studio Code) Tj
+T*
+ET
+BT
+1 0 0 1 8 10 Tm
+(Data Source) Tj
+T*
+ET
+BT
+1 0 0 1 116 10 Tm
+(CSV file) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 140 m
+410.4 140 l
+S
+n
+0 0 m
+410.4 0 l
+S
+n
+0 0 m
+0 140 l
+S
+n
+410.4 0 m
+410.4 140 l
+S
+n
+0 112 m
+410.4 112 l
+S
+n
+0 84 m
+410.4 84 l
+S
+n
+0 56 m
+410.4 56 l
+S
+n
+0 28 m
+410.4 28 l
+S
+n
+108 0 m
+108 140 l
+S
+Q
+Q
+Q
+Q
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.913725 0.933333 0.960784 rg
+n
+92 485.8898 108 31 re
+f*
+0.333333 0.333333 0.333333 RG
+0.6 w
+n
+92 485.8898 108 31 re
+S
+n
+200 485.8898 306 31 re
+S
+0 0 0 rg
+BT
+/F1-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 100 497.8898 Tm
+(Name) Tj
+T*
+ET
+BT
+1 0 0 1 208 497.8898 Tm
+(Krish Kumar) Tj
+T*
+ET
+0.913725 0.933333 0.960784 rg
+n
+92 454.8898 108 31 re
+f*
+0.333333 0.333333 0.333333 RG
+0.6 w
+n
+92 454.8898 108 31 re
+S
+n
+200 454.8898 306 31 re
+S
+0 0 0 rg
+BT
+/F1-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 100 466.8898 Tm
+(Student ID) Tj
+T*
+ET
+0.101961 0.333333 0.647059 rg
+BT
+1 0 0 1 208 466.8898 Tm
+(krish26\056b15410240\100abes\056ac\056in) Tj
+T*
+ET
+0.913725 0.933333 0.960784 rg
+n
+92 423.8898 108 31 re
+f*
+0.333333 0.333333 0.333333 RG
+0.6 w
+n
+92 423.8898 108 31 re
+S
+n
+200 423.8898 306 31 re
+S
+0 0 0 rg
+BT
+/F1-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 100 435.8898 Tm
+(GitHub Repository) Tj
+T*
+ET
+0.101961 0.333333 0.647059 rg
+BT
+1 0 0 1 208 435.8898 Tm
+(https\072\057\057github\056com\057singhkrish2313\057HCL) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 15 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1449
+>>
+stream
+Gatm;gN)%,&:O:Sls%r!c%rr8DiU`544@fs=Hh>F"Kk/2+M[uM<W.=^"A-_;%4YsZ1FC?Sp@.G%h1HD2oLnMb]E%`2LA,m@UgmMF+e9rY=T8]BXtRLpUs5+0.4c70A@]?ZdMm:<<8TCA$[Oc!QD56(>&"K1Ug@fp(ODDpn:u$RB,,VWX.Ni!("U.p!.WJdH'%[02ooNubX*;$4S%YLBi[`ME)hY8_$t#p(4sFeR]SIO;]Oac0mR_i>7_Pe=Ab:qiVqbUXe7NI.rkkIB+C;Yd\6maf!@S,_9=.;V6Um846@N_bca^4kC>A1/'/dEjg8O'IMg]N)R`"[$-ZSX;\jP2TS8kiWCMGn:.p5j#6HqeP)beBC=gGa3A[g@&T/[Sdpo44/r<Fc^E1-E?fM:W.oU2@dIh/DhXr=eYGH!),Es>YkUl="8SOA24GQ?#,ISJ?N&_*`X?bh7<@U@G*>)25T;*qhE*\^Pco]dt0@R1-*^t#S:BL85<$n2)<\\lg+_$f$a<0B.>'c>Kk7X26HAruka8PRWRI`uO%pYH@`^e5Oe`2<A"Ria"o3Sr^(IGs6XB"@R[ci*&>2BuE4?!_GTaV!&-i/mTSh9hNniGtN$EM&U'%d+%lK[qB=E.=3ks/2P"/O]pqVYp+l4a3fQ0HVa2Bls9XjdE@lJ2g#6eZ)@7NG2:=DQ`7T/H1EBrQ:XD)>KY,Y+P\Y,Go?k%f$VKYrn,8eF@sm"h>ZqT74P+W:)X(&*Iuag;KCX/\E0833;hB^iqd0jU<s04-)X^6dLfV4(u(C$D(]oi&f6%3[FOH<D61m#4g=.[7]8/#@DeCf[*#:BjA:C-;K?8>H"Y!4P#,7M+',CIQT0CGhg`\^q"_a5T?R6\J%-7Zq_ZAh*KDZ>-7m8)^63:f.I;K^k"83a','Zd08oX&SJ68<0>3>9s[nIb70Nc%`%PmaG1IU0&u46t_Ts6dja.?*kC]DP,oq4W2+$Tbsuk[dDtMmJGBQeIk0fo+"e8;ECUL&>[DTDJCgoc+"f5Y[Lk:3qTFb@jR"CI#c%#+dnpbe)e]tXs9b2J9-`8O275IK+eIgeR$mg'DnE4:RJ,b>&UD#aJK'I4C>pC9sM.%en_-?,tA?pP5*h^S`s+nj+1ZHXPeXRf.u%e?gXBd@,5/K97-&!drkM%0YMpNkF!^e;6-`VFJ![FUR\4+FX8ir@(Y;?KA^TtY'i/Fp<&MmYFT@5',-76,pd/C<mK?G`"BF>XWp.s]@fXXmo"L]GlYrEfT0W"Ua`F,(9'`$q5PZg'FDa(7G"uQIfkk26[I/g5j5F",^tBRXX'Po<-VkVCHTg?De=PQR\26A:<TZ1SZ^k-'uKg,C_ZJ]jrlD?h_4I&D41sQ:N<hIKC/,aodW2@1R%4jZW<W;hb.!2?!bAm*]BI)LQ5lFm8e2b'Bf<a46.<62t!oQ&'s,4\gLb\$QOPtd/~>
+endstream
+endobj
+15 0 obj
+<<
+/F1 16 0 R
+/F2 17 0 R
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 15 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1082
+>>
+stream
+GatU2?#SIW&:Dg-fZ1@<Fd=W"p:^,<"kk5UL#,IRJ<jl,%7R9B'fZ*a*KlS;.iPsS+i#c[Ouk`]];q0nGgc(ce3pK\qWD-Vl&>0RV-/sYrfQ("BA_%`DW`4=j^OXZ<pLJqi5IOc0`*Yr9o&&_Fg@[QNjha]J)%O&\".I0c5i;2s3cB`Q24l[)e)FOMAs.@GEl2^$=,U7M65i\[@)-;1nW-]%DC==TAVt+L4=,qi?_(#29Z>DT2GTIo&k,op&)+tYO?HF)k!8D-fu>H*Hlm[QLrpnfk3GIcYbp0RU$\-Ro)3WM(M)(X+W[8VKDpo<U9-u1sg>m4OBiS`^i07_4u-iad#L+HNsh:$EY9]b0hT:Gt>WS4c'huX7fHD.T6&i3=^X?_/W)U[BcRg>c`rYs#B/^8H<T4e2L&UH#JDM0tbm\A.bKFb&C,-Qg\X,=ArA.ljd2,7694F':6c0?9D63F[D][#V3=4qtnbXZg<osa=C#Fd7C,]WEEqt32bAt07bKcX\eo2`=4afD/)]IP=7!!,$JEC=Y'3m)jcfE`nFhcekUsGY\d[@6@RprD7ADI!LMY__tMo02Y^ZHV-sV`P9/aK<)9l\QN@Bm&`QY8g_`V@oj8R!O$\@LqC$+;@^;apQ5:pYdgK$[`k[d;1<1qi,X>GUU^Tg*AS#$#5ap!68AENK*&lkdESMi"d/#MkOuJI0>uLp)+>s3Z`@[C!@0rU:Di7Hip31f&;9if%U?nF%]K;pD:&Ru^)fV#[[R$sLXcQDQGmgAF"OKaJ`DPL-^1536:)?^6;ju(Ff!U7]VU,boMit2;'s5fq@#DB(k(f9(auE*1pje39D$D@VXh+?KpJZ6TMGc*;FUKkK5e%Wh^palo<a3h-2gd,KO.2C74cUoeMamRlSi?/T6T",9M2hMN+oT4NNQ--GKdn?mM\Ln!"s^351;U8<r`&()&q#'$QkkZp/B3'_dK`ZVTmD%JPe9IXc7k$r!>D15S3402DErm6hG8WCG-KKjVa%S?@5'rq9ic?F%6`9';.-3<p)e!]*UseJFmGgu-6nbI7%l%C#;1D:i?lJ2"@)ge!1j&iha#lI~>
+endstream
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000439 00000 n 
+0000000546 00000 n 
+0000000653 00000 n 
+0000000760 00000 n 
+0000000872 00000 n 
+0000000984 00000 n 
+0000001181 00000 n 
+0000001383 00000 n 
+0000005487 00000 n 
+0000005689 00000 n 
+0000007231 00000 n 
+0000007275 00000 n 
+0000007383 00000 n 
+0000007496 00000 n 
+0000007698 00000 n 
+trailer
+<<
+/Size 20
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8873
+%%EOF
